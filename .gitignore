@@ -143,6 +143,10 @@ mnesia/
 rabbitmq/
 rabbitmq-data/
 
+AGENTS.md
+DEVELOPMENT.md
+agent_docs/
+
 # ActiveMQ
 activemq-data/
 
@@ -218,3 +222,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local Namealizer settings, results and editor backups
+local-config.json
+word-history.json
+word-history.json.tmp
+namealizer-report*.json
+*~
